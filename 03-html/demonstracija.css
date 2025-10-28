@@ -1,0 +1,20 @@
+.rdece {
+    font-size: 12px;
+    color: red;
+}
+
+h1 {
+    border: 1px solid black;
+}
+
+em {
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
